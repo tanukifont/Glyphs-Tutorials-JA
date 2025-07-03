@@ -35,7 +35,7 @@ by Rainer Erich Scheichelbauer
 
 ![](images/multipleanchors-4.png)
 
-あるいは、もし怠け者なら、そのためのスクリプトがあります。[mekkablueのgithub](https://github.com/mekkablue/Glyphs-Scripts)にあります。_Move acute, grave and hook to top_viet_というスクリプトが見つかります。これは、選択したすべてのグリフでacutecomb、gravecomb、hookabovecombを自動的に「top_viet」に配置します。
+あるいは、もし怠け者なら、そのためのスクリプトがあります。[mekkablueのgithub](https://github.com/mekkablue/Glyphs-Scripts)にあります。*Move acute, grave and hook to top_viet*というスクリプトが見つかります。これは、選択したすべてのグリフでacutecomb、gravecomb、hookabovecombを自動的に「top_viet」に配置します。
 
 これで完了です！うまく機能します。さあ、マークアンカーで楽しんでください、タイポグラフィオタクの皆さん！
 
