@@ -25,7 +25,7 @@ Glyphsアプリケーションの奥深くには、`GlyphData.xml`というフ�
 
 ### 旧バージョン
 Glyphs 2以前のユーザーの場合、アプリ名は「Glyphs.app」である必要があり、コピーするパスは次のようになります。
-_/Applications/Glyphs.app/Contents/Frameworks/GlyphsCore.framework/Versions/A/Resources/GlyphData.xml_
+*/Applications/Glyphs.app/Contents/Frameworks/GlyphsCore.framework/Versions/A/Resources/GlyphData.xml*
 
 次に、Finderで、「移動 > フォルダへ移動…」（Cmd-Shift-G）を選択します。先ほどコピーした行を、表示されるダイアログにペーストします。
 

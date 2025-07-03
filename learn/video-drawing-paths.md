@@ -19,9 +19,9 @@
 
 ### 便利なスクリプトとプラグイン
 
-*   [mekkablue scripts](glyphsapp3://showplugin/mekkablue%20scripts)には_Paths_というセクションがあり、そこには潜在的な問題を見つけるためのスクリプト、_Path Problem Checker_などが含まれています。
-*   [Show Angled Handles](glyphsapp3://showplugin/Show%20Angled%20Handles)プラグインは、_View_メニューにインストールされ、有効にすると、重複したパスや完全には直交していないハンドルや線分などの潜在的な問題を指摘します。
-*   Jens Kutílek氏の[Red Arrow](glyphsapp3://showplugin/Red%20Arrow)プラグインは、潜在的な問題を指摘し、非常に便利な_Edit > Select Glyphs with Outline Errors_をメニューに追加します。
+*   [mekkablue scripts](glyphsapp3://showplugin/mekkablue%20scripts)には*Paths*というセクションがあり、そこには潜在的な問題を見つけるためのスクリプト、*Path Problem Checker*などが含まれています。
+*   [Show Angled Handles](glyphsapp3://showplugin/Show%20Angled%20Handles)プラグインは、*View*メニューにインストールされ、有効にすると、重複したパスや完全には直交していないハンドルや線分などの潜在的な問題を指摘します。
+*   Jens Kutílek氏の[Red Arrow](glyphsapp3://showplugin/Red%20Arrow)プラグインは、潜在的な問題を指摘し、非常に便利な*Edit > Select Glyphs with Outline Errors*をメニューに追加します。
 
 もちろん、これ以外にもたくさんあります。[プラグインマネージャを開いて](glyphsapp3://openpluginmanager)、他のプラグインやスクリプトを探してみてください。
 

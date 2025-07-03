@@ -24,7 +24,7 @@
 #### 便利なスクリプトとプラグイン
 
 *   [mekkablue scripts](glyphsapp3://showplugin/mekkablue%20scripts)と[Jens Kutílek’s scripts](glyphsapp3://showplugin/Jens%20Kutílek’s%20scripts)には、コンポーネントの扱いに特化したセクションがあります。
-*   [Show Component Order](glyphsapp3://showplugin/Show%20Component%20Order)プラグインは、_View_メニューにインストールされ、有効にすると、コンポーネントの順序に応じて異なる色合いでコンポーネントを着色します。
+*   [Show Component Order](glyphsapp3://showplugin/Show%20Component%20Order)プラグインは、*View*メニューにインストールされ、有効にすると、コンポーネントの順序に応じて異なる色合いでコンポーネントを着色します。
 *   Guido Ferreyra氏の[Show Next Font Components](glyphsapp3://showplugin/Show%20Next%20Font%20Components)と[Show Components Compatibility](glyphsapp3://showplugin/ShowComponentsCompatibility)は、マスター間のコンポーネントの非互換性を見つけることができます。
 
 もちろん、これ以外にもたくさんあります。[プラグインマネージャを開いて](glyphsapp3://openpluginmanager)、他のプラグインやスクリプトを探してみてください。
